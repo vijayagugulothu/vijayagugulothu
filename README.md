@@ -1,3 +1,4 @@
+![logo](https://github.com/vijayagugulothu/vijayagugulothu/blob/main/Screenshot%202024-06-11%20025829.png)
 <h1 align="center">Hi 👋, I'm Vijaya Gugulothu</h1>
 <h3 align="center">Passionate Computer Science student focused on software development and machine learning.</h3>
 
